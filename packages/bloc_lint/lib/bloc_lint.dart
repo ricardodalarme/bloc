@@ -6,7 +6,7 @@ export 'package:_fe_analyzer_shared/src/scanner/token.dart'
 export 'src/diagnostic.dart' show Diagnostic, Severity;
 export 'src/lint_rule.dart' show LintRule, LintRuleBuilder;
 export 'src/linter.dart' show LintContext, Linter;
-export 'src/rules/rules.dart'
+export 'src/legacy_rules/legacy_rules.dart'
     show
         AvoidBuildContextExtensions,
         AvoidFlutterImports,

@@ -1,4 +1,4 @@
-import 'package:bloc_lint/src/rules/rules.dart';
+import 'package:bloc_lint/src/legacy_rules/legacy_rules.dart';
 import 'package:test/test.dart';
 
 import '../lint_test_helper.dart';
