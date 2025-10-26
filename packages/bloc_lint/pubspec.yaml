@@ -9,10 +9,12 @@ topics: [bloc, state-management, lint]
 funding: [https://github.com/sponsors/felangel]
 
 environment:
-  sdk: ">=3.7.0 <4.0.0"
+  sdk: ">=3.9.0 <4.0.0"
 
 dependencies:
   _fe_analyzer_shared: ">=75.0.0 <=89.0.0"
+  analysis_server_plugin: ^0.3.0
+  analyzer: ^8.2.0
   checked_yaml: ^2.0.0
   collection: ^1.0.0
   glob: ^2.0.0
